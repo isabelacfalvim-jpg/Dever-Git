@@ -1,4 +1,3 @@
-Monitoria de Git/Git hub
 🎓 Monitoria de Git e GitHub
 
 Este repositório contém os materiais, exercícios e atividades práticas desenvolvidos durante a minha monitoria de Git e GitHub. O objetivo deste espaço é centralizar o conteúdo para apoiar o aprendizado dos estudantes e demonstrar a aplicação prática dos conceitos de controle de versão.
@@ -10,11 +9,15 @@ Durante o período de monitoria, auxiliei os alunos a compreenderem desde os con
 🛠️ Tecnologias Utilizadas
 
 • Git: Sistema de controle de versão distribuído.
+
 • GitHub: Plataforma de hospedagem de código e colaboração.
 
 🧑‍💻 Autor
 
 Desenvolvido por Isabela Cristina de Figueiredo Alvim 🌟
-• LinkedIn: 
+
+• LinkedIn: https://www.linkedin.com/in/isabela-alvim-9720753a4/?isSelfProfile=true
+
 • E-mail pessoal: isabela.cf.alvim@gmail.com
+
 • E-mail institucional: isabela.alvim@sempreceub.com
