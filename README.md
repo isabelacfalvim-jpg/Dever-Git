@@ -1,3 +1,5 @@
+# Entrega das atividades de Git/Git Hub
+
 🎓 Monitoria de Git e GitHub
 
 Este repositório contém os materiais, exercícios e atividades práticas desenvolvidos durante a minha monitoria de Git e GitHub. O objetivo deste espaço é centralizar o conteúdo para apoiar o aprendizado dos estudantes e demonstrar a aplicação prática dos conceitos de controle de versão.
